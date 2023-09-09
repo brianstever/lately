@@ -23,7 +23,7 @@ export const siteConfig = {
     {
       label: "About",
       href: "/about",
-    }
+    },
 	],
 	navMenuItems: [
 		{
@@ -60,10 +60,9 @@ export const siteConfig = {
 		},
 	],
 	links: {
-		github: "https://github.com/nextui-org/nextui",
-		twitter: "https://twitter.com/getnextui",
-		docs: "https://nextui.org",
-		discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev"
+		github: "https://github.com/brianstever/",
+		twitter: "https://twitter.com/itsbrianstever",
+		discord: "https://discord.gg/h7H3RXsFmx",
+		contact: "mailto:hello@lately.design",
 	},
 };
